@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;6_Shopping App&apos; to &apos;6_Shopping App (IMP Concepts)&apos;" description="Rename resource &apos;6_Shopping App&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/6_Shopping App" name="6_Shopping App (IMP Concepts)" stamp="1679407170547" updateReferences="true"/>
+</session>
